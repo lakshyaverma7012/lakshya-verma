@@ -1,0 +1,6 @@
+{
+  "name": "Neon Void - 2D Space Shooter",
+  "description": "An action-packed retro-futuristic 2D arcade space shooter built with procedural HTML5 Canvas graphics, parallax starfields, and synth sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
